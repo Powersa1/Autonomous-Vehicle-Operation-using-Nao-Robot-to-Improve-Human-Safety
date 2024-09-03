@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content='width=device-width, inital-scale=1.0">
+  <tile>Document</title>
+</head>
+<body>
+    <h1>Autonomous Vehicle Operation Using Nao Robot to Improve Human Safety</h1>
+    <p>Alex - Upgrade sensory system to recognizing traffic lights, lanes, and other obstacles.
+    <p>Sean - Programming NAO using the Choregraphe language, microcontroller connections
+    <p>Shane - Responsible for designing elements for the rules of the road, such as using CAD to design and make obstacles such as a stop sign or 3 color traffic light. As well as seeing how the buttons work by turning right or left with pressing them
+</body>
+
+</html>
